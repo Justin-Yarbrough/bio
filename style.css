@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+}
+body {
+    background-image:url( Supreme.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+ul {
+    color: magenta
+}
+
+p {
+    color: magenta;
+}
+
+h2{
+    color: aqua;
+}
+
+h3{
+    color: aqua;
+}
+
+/*Classes*/
+.hello {
+    color: aqua
+}
+
+/*ID's*/
+#bigger-text {
+    font-size: 36px;
+}
